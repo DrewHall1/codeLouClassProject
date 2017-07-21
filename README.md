@@ -9,7 +9,7 @@ The navigation bar will eventually link to other items/pages requested by the "c
 
 ## Built With
 
-* Bootstrap - The web framework used along with personal stylings in CSS and JavaScript.
+* Bootstrap - The web framework used along with personal stylings in CSS and JavaScript. The landing page can be found by clicking the "index.html" file.
 
 
 ## Authors
